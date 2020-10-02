@@ -1,0 +1,11 @@
+VOIP in browser
+	- call down the phone, even though controlled via webpage
+
+
+star or hash for dtmf
+	- in short, when user's put in the hash or star symbol it drops out
+
+
+=======
+
+
